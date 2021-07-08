@@ -9,7 +9,7 @@ spec:
     clusterName: kind
     devEnvApprovers:
       - todo
-    environmentGitOwner: todo
+    environmentGitOwner: haozileung
     gitKind: github
     gitName: github
     gitServer: https://github.com
